@@ -1,8 +1,8 @@
 # 0x05. Python - Exceptions
 
 ## Tasks
-0. Safe list printing <br>
-* Write a function that prints x elements of a list. <br>
+### [0. Safe list printing](0-safe_print_list.py)
+* Write a function that prints x elements of a list.
 Prototype: def safe_print_list(my_list=[], x=0):<br>
 
 1. Safe printing of an integers list
