@@ -1,9 +1,9 @@
 #!/usr/bin/python3
+""" This module defines a node of a singly linked list. """
 
 
 class Node:
-    """
-    Node of a singly linked list.
+    """Node of a singly linked list.
     Private instance attribute: data:
         - property def data(self)
         - property setter def data(self, value)
