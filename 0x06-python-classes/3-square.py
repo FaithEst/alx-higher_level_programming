@@ -1,11 +1,10 @@
 #!/usr/bin/python3
+""" This module defines a class 'Square' """
+
+
 class Square:
-    """
-    Represents a square.
-    Private instance attribute: size.
-    Instantiation with optional size.
-    Public instance method: def area(self).
-    """
+    """ Definition of a square by its size. """
+
     def __init__(self, size=0):
         """ Initialize size attribute with validation. """
         if type(size) != int:
