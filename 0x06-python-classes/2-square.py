@@ -3,7 +3,7 @@
 
 
 class Square:
-    """ 
+    """
     Represents a square.
     Private instance attribute: size.
     Instatiation with optional size.
